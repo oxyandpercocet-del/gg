@@ -1,0 +1,40 @@
+[2025-11-11 05:05:07.355731] Bot ready. Users cached: 480
+[2025-11-11 05:05:45.412494] Stored pending account for user 1012523897570201652 nobunagaandprime275@gmail.com
+[2025-11-11 05:06:01.124385] Error during check flow: 400 Bad Request (error code: 50007): Cannot send messages to this user
+[2025-11-11 05:08:05.051100] skincheck error: 400 Bad Request (error code: 50007): Cannot send messages to this user
+[2025-11-11 05:09:33.252217] Bot ready. Users cached: 480
+[2025-11-11 05:09:43.315132] skincheck error: 400 Bad Request (error code: 50007): Cannot send messages to this user
+[2025-11-11 05:10:06.687896] skincheck error: 400 Bad Request (error code: 50007): Cannot send messages to this user
+[2025-11-11 05:10:21.846432] Bot ready. Users cached: 480
+[2025-11-11 05:10:40.183474] Stored pending account for user 1012523897570201652 testandofort@gmail.com
+[2025-11-11 05:10:46.377923] Error during check flow: 400 Bad Request (error code: 50007): Cannot send messages to this user
+[2025-11-11 05:10:51.402373] skincheck error: 400 Bad Request (error code: 50007): Cannot send messages to this user
+[2025-11-11 05:11:47.012108] Bot ready. Users cached: 480
+[2025-11-11 05:11:54.515396] skincheck error: 400 Bad Request (error code: 50007): Cannot send messages to this user
+[2025-11-11 05:19:47.215108] Loaded guild configs: []
+[2025-11-11 05:19:47.375068] Command sync error: Failed to upload commands to Discord (HTTP status 400, error code 50035)
+In command 'skincheck' defined in function 'skincheck'
+  description: Must be 100 or fewer in length.
+[2025-11-11 05:25:04.340749] Loaded guild configs: []
+[2025-11-11 05:25:05.104667] Synced commands: 4
+[2025-11-11 05:25:52.249792] Stored pending account for user 1012523897570201652 cesar.deltoro.con@gmail.com
+[2025-11-11 05:27:19.804355] Saved config for guild 1432818591568367649 {'check_channel': 1437333883803926568, 'skin_channel': 1433541715196907713, 'target_id': 1328207921506680894, 'addons': []}
+[2025-11-11 05:28:41.699557] Stored pending account for user 1012523897570201652 dhgaheshes@gmail.com
+[2025-11-11 05:29:26.345853] Saved config for guild 1432818591568367649 {'check_channel': 1437765895802978405, 'skin_channel': 1437333883803926568, 'target_id': 1328207921506680894, 'addons': []}
+[2025-11-11 05:29:39.820783] Stored pending account for user 1012523897570201652 nobunagaandprime275@gmail.com
+[2025-11-11 05:31:13.563888] Received skin response: GetAlts#4446 1437766634755588250
+[2025-11-11 05:31:22.361108] Received skin response: GetAlts#4446 1437766671623389234
+[2025-11-11 05:31:29.442234] Loaded guild configs: ['1432818591568367649']
+[2025-11-11 05:31:29.758458] Synced commands: 4
+[2025-11-11 05:31:45.922236] Stored pending account for user 1012523897570201652 matiram432145@gmail.com
+[2025-11-11 05:42:03.868802] Loaded guild configs: ['1432818591568367649']
+[2025-11-11 05:42:04.143528] Synced commands: 4
+[2025-11-11 05:42:20.594777] Stored pending account for user 1012523897570201652 merkfail04@gmail.com
+[2025-11-11 05:42:20.595004] Stored pending account for user 1012523897570201652 ilovemakeup.mp1@gmail.com
+[2025-11-11 05:42:33.678006] request_and_forward_locker error: 'locker_channel'
+[2025-11-11 05:43:00.011284] Stored pending account for user 1420325419080749107 masterdimitris7@gmail.com
+[2025-11-11 05:43:00.062612] Received skin response: GetAlts#4446 1437769598039752886
+[2025-11-11 05:43:00.085602] Stored pending account for user 1420325419080749107 cesar.deltoro.con@gmail.com
+[2025-11-11 05:43:00.838938] Received skin response: GetAlts#4446 1437769601416040501
+[2025-11-11 05:43:12.762030] Received skin response: GetAlts#4446 1437769651323932783
+[2025-11-11 05:43:49.673172] request_and_forward_locker error: 'locker_channel'
